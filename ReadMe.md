@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Johan. Currently, I'm working as a COBOL developer and analyst. Still, I'm looking for opportunities that allow me to develop and put into practice my skills as a Full Stack Web Developer.<br><br>Main technologies:<br><br>- React Js<br>- Next Js<br>- Node Js<br>- Express Js
+Hi, I'm Johan. Currently, I'm working as a COBOL developer and analyst. Still, I'm looking for opportunities that allow me to develop and put into practice my skills as a Full Stack Web Developer.<br><br>Main technologies:<br><br>- React Js<br>- Next Js<br>- Node Js<br>- Express Js<br>- MongoDB
 
 
 ## 🌐 Socials:
