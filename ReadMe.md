@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Johan. Currently, I'm working as a Full Stack Web Developer.<br><br>Main technologies:<br><br>- React<br>- Next.js<br>- Node JS<br>- Express.js<br>- Django<br>- MongoDB<br>- MySQL
+Hi, I'm Johan. Currently, I'm working as a Full Stack Web Developer.<br><br>Main technologies:<br><br>- React<br>- Next.js<br>- NodeJS<br>- Astro<br>- Express.js<br>- NestJS<br>- MongoDB<br>- PostgreSQL
 
 
 ## 🌐 Socials:
