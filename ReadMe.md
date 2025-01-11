@@ -13,6 +13,9 @@ Hi, I'm Johan. Currently, I'm working as a Full Stack Web Developer.<br><br>Main
 - Next.js
 - Astro
 
+### Cloud
+- AWS
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johan-tuarez) 
 
