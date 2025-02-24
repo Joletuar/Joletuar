@@ -9,8 +9,10 @@ Hi, I'm Johan. Currently, I'm working as a Full Stack Web Developer.<br><br>Main
 - PostgreSQL
 
 ### Frontend
-- React
+- React.js
 - Next.js
+- Vue.js
+- Nuxt.js
 - Astro
 
 ### Cloud
