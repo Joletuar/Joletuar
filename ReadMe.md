@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Johan. Currently, I'm working as a Full Stack Web Developer.<br><br>Main technologies:<br><br>
+Hi, I'm Johan. Currently, I'm working as Backend Developer.<br><br>Main technologies:<br><br>
 
 ### Backend
 - Node.js
