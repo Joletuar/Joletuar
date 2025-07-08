@@ -1,25 +1,32 @@
-# 💫 About Me:
-Hi, I'm Johan. Currently, I'm working as Backend Developer.<br><br>Main technologies:<br><br>
+### 👋 Hola, soy Johan Tuarez
 
-### Backend
-- Node.js
-- Express.js
-- NestJS
-- MongoDB
-- PostgreSQL
+Soy **Desarrollador Backend** con más de **3 años de experiencia** creando soluciones escalables, mantenibles y de alto rendimiento, principalmente con **Node.js**, **TypeScript** y arquitecturas modernas como **Clean Architecture**, **DDD** y **EDA**.
 
-### Frontend
-- React.js
-- Next.js
-- Vue.js
-- Nuxt.js
-- Astro
+🔧 Me apasiona diseñar APIs robustas, integrar sistemas complejos y desplegar infraestructuras **serverless en AWS**. He liderado migraciones de sistemas legacy, optimizado integraciones con terceros como **Shopify**, y automatizado procesos clave en entornos productivos usando tecnologías como **NestJS, Docker, RabbitMQ y CDK**.
 
-### Cloud
-- AWS
+🚀 Algunas cosas que he hecho:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johan-tuarez) 
+* Migré un sistema monolítico a microservicios con reconocimiento de placas y cédulas por imagen.
+* Modernicé un marketplace con **Nuxt 3** y AWS, reduciendo costos y mejorando la UX.
+* Construí e integré APIs para plataformas de facturación, visitas e inventario.
+
+📚 Me gusta el **código limpio**, la **automatización** y la **mejora continua**. Siempre estoy aprendiendo, compartiendo y buscando nuevas formas de construir software más eficiente y confiable.
+
+---
+
+### 🛠️ Tecnologías clave
+
+* **Backend:** Node.js, NestJS, Express.js, TypeScript
+* **Frontend:** React.js, Vue 3, Nuxt 3, Tailwind CSS
+* **Infraestructura:** AWS (Lambda, SQS, SNS, CDK), Docker, Kubernetes
+* **Bases de datos:** PostgreSQL, MongoDB, Oracle SQL
+* **Otros:** GitHub Actions, RabbitMQ, Clean Architecture, DDD, EDA
+
+---
+
+### 📫 Conecta conmigo
+
+* 🔗 [LinkedIn](https://linkedin.com/in/johan-tuarez)
 
 # 💻 Tech Stack:
 
@@ -37,5 +44,3 @@ Hi, I'm Johan. Currently, I'm working as Backend Developer.<br><br>Main technolo
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joletuar&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
