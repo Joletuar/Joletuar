@@ -2,7 +2,7 @@
 
 **Desarrollador Backend** con más de **3 años de experiencia** creando soluciones escalables, mantenibles y de alto rendimiento, principalmente con **Node.js**, **TypeScript** y arquitecturas modernas como **Clean Architecture**, **DDD** y **EDA**.
 
-🔧 Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraestructuras **serverless en AWS**. He liderado migraciones de sistemas legacy, optimizado integraciones con terceros como **Shopify**, y automatizado procesos clave en entornos productivos usando tecnologías como **NestJS, Docker, RabbitMQ y AWS CDK**.
+Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraestructuras **serverless en AWS**. He liderado migraciones de sistemas legacy, optimizado integraciones con terceros como **Shopify**, y automatizado procesos clave en entornos productivos usando tecnologías como **NestJS, Docker, RabbitMQ y AWS CDK**.
 
 🚀 Algunas cosas que he hecho:
 
