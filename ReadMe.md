@@ -18,7 +18,7 @@ Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraes
 
 * **Backend:** Node.js, NestJS, Express.js, TypeScript
 * **Frontend:** React.js, Vue 3, Nuxt 3, Tailwind CSS
-* **Infraestructura:** AWS (Lambda, SQS, SNS, CDK), Docker, Kubernetes
+* **Infraestructura:** AWS (Lambda, SQS, SNS, S3, API Gateway, RDS, DynamoDb, ECS, CDK), Docker, Kubernetes
 * **Bases de datos:** PostgreSQL, MongoDB, Oracle SQL
 * **Otros:** GitHub Actions, RabbitMQ, Clean Architecture, DDD, EDA
 
