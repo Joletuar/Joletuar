@@ -1,13 +1,13 @@
 ### 👋 Hola, soy Johan Tuarez
 
-**Desarrollador Backend** con más de **3 años de experiencia** creando soluciones escalables, mantenibles y de alto rendimiento, principalmente con **Node.js**, **TypeScript** y arquitecturas modernas como **Clean Architecture**, **DDD** y **EDA**.
+**Desarrollador Backend** con más de **3 años de experiencia** creando soluciones escalables, mantenibles y de alto rendimiento, principalmente con **Node.js**, **NestJS**, **TypeScript** y arquitecturas modernas serverless con AWS.
 
-Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraestructuras **serverless en AWS**. He liderado migraciones de sistemas legacy, optimizado integraciones con terceros como **Shopify**, y automatizado procesos clave en entornos productivos usando tecnologías como **NestJS, Docker, RabbitMQ y AWS CDK**.
+Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraestructuras **serverless en AWS**. He liderado migraciones de sistemas legacy, optimizado integraciones con terceros como **Shopify**, y automatizado procesos clave en entornos productivos usando tecnologías como **NestJS, Docker, React.js, Vue.js y AWS CDK**.
 
 🚀 Algunas cosas que he hecho:
 
 * Migré un sistema monolítico a microservicios con reconocimiento de placas y cédulas por imagen.
-* Modernicé un marketplace con **Nuxt 3** y AWS, reduciendo costos y mejorando la UX.
+* Modernicé un marketplace con **Nuxt 3** y **AWS**, reduciendo costos y mejorando la UX.
 * Construí e integré APIs para plataformas de facturación, visitas e inventario.
 
 📚 Me gusta el **código limpio**, la **automatización** y la **mejora continua**. Siempre estoy aprendiendo, compartiendo y buscando nuevas formas de construir software más eficiente y confiable.
@@ -17,10 +17,10 @@ Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraes
 ### 🛠️ Tecnologías clave
 
 * **Backend:** Node.js, NestJS, Express.js, TypeScript
-* **Frontend:** React.js, Vue 3, Nuxt 3, Tailwind CSS
+* **Frontend:** React.js, Vue.js 3, Nuxt 3, Tailwind CSS
 * **Infraestructura:** AWS (Lambda, SQS, SNS, S3, API Gateway, RDS, DynamoDb, ECS, CDK), Docker, Kubernetes
 * **Bases de datos:** PostgreSQL, MongoDB, Oracle SQL
-* **Otros:** GitHub Actions, RabbitMQ, Clean Architecture, DDD, EDA
+* **Otros:** GitHub Actions, RabbitMQ, Clean Architecture, DDD, EDA, SOLID
 
 ---
 
