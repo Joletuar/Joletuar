@@ -10,8 +10,6 @@ Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraes
 * Modernicé un marketplace con **Nuxt 3** y **AWS**, reduciendo costos y mejorando la UX.
 * Construí e integré APIs para plataformas de facturación, visitas e inventario.
 
-📚 Me gusta el **código limpio**, la **automatización** y la **mejora continua**. Siempre estoy aprendiendo, compartiendo y buscando nuevas formas de construir software más eficiente y confiable.
-
 ---
 
 ### 🛠️ Tecnologías clave
