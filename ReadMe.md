@@ -57,11 +57,6 @@ Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraes
         <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joletuar&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Joletuar">
-        <img height="180em" src="https://streak-stats.demolab.com?user=Joletuar&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=dark&background=000000&ring=8a2be2&fire=ff79c6&currStreakNum=c9a0ff&currStreakLabel=ff79c6&sideNums=c9a0ff&sideLabels=ff79c6&dates=7f7f7f&hide_border=true&border_radius=7&card_width=467" />
-      <a/>
-    </td>
   </tr>
 </table>
 
