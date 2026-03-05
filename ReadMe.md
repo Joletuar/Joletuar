@@ -1,6 +1,6 @@
 ### 👋 Hola, soy Johan Tuarez
 
-**Desarrollador Backend** con más de **3 años de experiencia** creando soluciones escalables, mantenibles y de alto rendimiento, principalmente con **Node.js**, **NestJS**, **TypeScript** y arquitecturas modernas serverless con AWS.
+**Desarrollador Backend** con más de **4 años de experiencia** creando soluciones escalables, mantenibles y de alto rendimiento, principalmente con **Node.js**, **NestJS**, **TypeScript** y arquitecturas modernas serverless con AWS.
 
 Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraestructuras **serverless en AWS**. He liderado migraciones de sistemas legacy, optimizado integraciones con terceros como **Shopify**, y automatizado procesos clave en entornos productivos usando tecnologías como **NestJS, Docker, React.js, Vue.js y AWS CDK**.
 
