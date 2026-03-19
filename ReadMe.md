@@ -1,25 +1,88 @@
 ### 👋 Hola, soy Johan Tuarez
 
-**Desarrollador Backend** con más de **4 años de experiencia** creando soluciones escalables, mantenibles y de alto rendimiento, principalmente con **Node.js**, **NestJS**, **TypeScript** y arquitecturas modernas serverless con AWS.
+**Backend Engineer** con más de **4 años de experiencia** construyendo sistemas escalables, resilientes y de alto rendimiento usando **Node.js, Go, Bun y TypeScript**, con arquitecturas modernas basadas en eventos y **AWS serverless**.
 
-Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraestructuras **serverless en AWS**. He liderado migraciones de sistemas legacy, optimizado integraciones con terceros como **Shopify**, y automatizado procesos clave en entornos productivos usando tecnologías como **NestJS, Docker, React.js, Vue.js y AWS CDK**.
+Enfocado en **sistemas distribuidos, procesamiento concurrente y aplicaciones con IA**, incluyendo construcción de **agentes, integración de LLMs y pipelines RAG**.
 
-🚀 Algunas cosas que he hecho:
+---
 
-* Migré un sistema monolítico a microservicios con reconocimiento de placas y cédulas por imagen.
-* Modernicé un marketplace con **Nuxt 3** y **AWS**, reduciendo costos y mejorando la UX.
+### 🚀 Algunas cosas que he hecho:
+
+* Migré un sistema monolítico a microservicios, incorporando reconocimiento de placas y cédulas por imagen.
+* Implementé servicios en **Go** usando **goroutines y channels** para procesamiento concurrente, reduciendo latencia en operaciones críticas.
+* Modernicé un marketplace con **Nuxt 3 y AWS**, optimizando costos y mejorando la UX.
 * Construí e integré APIs para plataformas de facturación, visitas e inventario.
+* Implementé arquitecturas **event-driven** con **Kafka, SQS y RabbitMQ** para desacoplar servicios.
+* Desarrollé integraciones con **LLMs y agentes** para automatización de flujos y procesamiento inteligente.
 
 ---
 
 ### 🛠️ Tecnologías clave
 
-* **Backend:** Node.js, NestJS, Express.js, TypeScript
-* **Frontend:** React.js, Vue.js 3, Nuxt 3, Tailwind CSS
-* **Infraestructura:** AWS (Lambda, SQS, SNS, S3, API Gateway, RDS, DynamoDb, ECS, CDK), Docker, Kubernetes
-* **Bases de datos:** PostgreSQL, MongoDB, Oracle SQL
-* **Testing:** Jest
-* **Otros:** GitHub Actions, RabbitMQ, Notion
+#### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Mensajería / Event Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+---
+
+### 🤖 AI / Agentes / LLMs
+
+#### Modelos y APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### Frameworks y Orquestación
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+
+#### Agentes y Tooling
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function_Calling-0A66C2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-8E44AD?style=for-the-badge)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-6E57E0?style=for-the-badge)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-0A66C2?style=for-the-badge)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -27,25 +90,10 @@ Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraes
 
 * 🔗 [LinkedIn](https://linkedin.com/in/johan-tuarez)
 
-### 💻 Tech Stack:
-
-#### Backend
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-#### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### AI
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### CI/CD
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+---
 
 ### 📊 GitHub Stats:
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/Joletuar">
@@ -59,6 +107,3 @@ Me gusta diseñar APIs robustas, integrar sistemas complejos y desplegar infraes
     </td>
   </tr>
 </table>
-
-
-
