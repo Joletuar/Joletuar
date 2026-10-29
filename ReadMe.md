@@ -1,6 +1,6 @@
 ### 👋 Hola, soy Johan Tuarez
 
-**Backend Engineer** con más de **4 años de experiencia** construyendo sistemas escalables, resilientes y de alto rendimiento usando **Node.js, Go, Bun y TypeScript**, con arquitecturas modernas basadas en eventos y **AWS serverless**.
+**Backend Engineer** con más de **5 años de experiencia** construyendo sistemas escalables, resilientes y de alto rendimiento usando **Node.js, Go, Bun y TypeScript**, con arquitecturas modernas basadas en eventos y **AWS serverless**.
 
 Enfocado en **sistemas distribuidos, procesamiento concurrente y aplicaciones con IA**, incluyendo construcción de **agentes, integración de LLMs y pipelines RAG**.
 
@@ -89,21 +89,3 @@ Enfocado en **sistemas distribuidos, procesamiento concurrente y aplicaciones co
 ### 📫 Conecta conmigo
 
 * 🔗 [LinkedIn](https://linkedin.com/in/johan-tuarez)
-
----
-
-### 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Joletuar">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joletuar&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Joletuar">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joletuar&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
